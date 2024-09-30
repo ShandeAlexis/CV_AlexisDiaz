@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+
+}
+
+.container{
+    padding: 5%;
+    border: 2px solid black;
+
+}
+.title{
+    color: rgb(12, 1, 1);
+    border-top: 5px solid black;
+    padding-top: 25px;
+}
+.sub-title{
+    color: rgb(54, 173, 54);
+}
+.description{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sub-name{
+    color: rgb(71, 110, 182);
+}
+
+li{
+    color: rgba(8, 7, 7, 0.877);
+}
